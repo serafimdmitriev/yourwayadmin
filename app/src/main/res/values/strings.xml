@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">YourWay Admin</string>google_maps_key
+    <string name="title_activity_main">YourWay Admin</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="there_isnt_new_admins">There isn\'t new requests :( \n Press \'Back\' button to exit.</string>
+    <string name="new_administrators">New administrators</string>
+    <string name="new_map_objects">New map objects</string>
+    <string name="some_text">TextTextView</string>
+    <string name="cannot_work_without_network">Unfortunately, YourWay Admin cannot work correctly without internet connection. \n\n Please, check the connection before using the app.</string>
+    <string name="exit">exit</string>
+    <string name="thank_you_for_registration">Thank you! \n\n YourWay team will contact you as soon as possible.</string>
+    <string name="send_request">Send Request</string>
+    <string name="enter_contacts">Please, enter your contacts here:</string>
+    <string name="some_contacts">Your e-mail, facebook account, phone or etc.</string>
+    <string name="tell_about_yourself">Please, tell something about yourself.</string>
+    <string name="how_can_you_help">How can you help in YourWay\'s development?</string>
+    <string name="there_isnt_new_actions">There isn\'t new actions. Press \'Back\' button to exit.</string>
+    <string name="show_objects_to_delete">Show objects to delete</string>
+    <string name="show_objects_to_add">Show objects to add</string>
+    <string name="delete">delete</string>
+    <string name="reload_map">Reload map</string>
+    <string name="save">Save</string>
+    <string name="please_sign_in_using_your_google_account">Please, sign in using your Google account.</string>
+</resources>
